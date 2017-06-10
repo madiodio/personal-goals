@@ -1,62 +1,29 @@
 Personal Goals
 ==============
 
-Personal goals made open source for accessibility across computers I use, transparency, accountability, and versioning. Learn more about it [here](http://una.im/personal-goals-guide).
+Personal goals - inspired by [](https://github.com/una/personal-goals)
 
-# Overarching Goals for 2017: [Make an Impact](http://una.im/2016-review/)
+# Overarching Goals for 2017
 1. JavaScript
-2. Be a Teacher
-3. Stay Experimental
-4. Publish a Book
-5. Start Running Again
+2. ELI Center
+4. Exercise
 
-I'm also doing 5 25-Days Projects in 2017:
+# Week of 12 June, 2017
 
-1. Running
-2. Writing Letters
-3. Mentorship
-4. Dev Doodles
-5. Meditation
+- [ ] finish section "Revue critique" on Monday
+- [ ] ...
 
-# June 4, 2017
+# Things I'll willing To Do This Summer:
 
-### This Week's Focus: Wedding!
+- [ ] ...
 
-### Things I'll do This Week:
+# Things I'll willing To Do This year:
 
-- [ ] Record Toolsday
-- [ ] Get Dress Fitted/Tailored
-- [ ] Record Post: CSS Custom Properties
-- [ ] Writing — finish intro JS things 
-- [ ] Writing — framework overview
-- [ ] Read [this](https://css-tricks.com/debugging-tips-tricks/)
-- [ ] Read and make something with [AR.js](https://medium.com/arjs/augmented-reality-in-10-lines-of-html-4e193ea9fdbf)
-- [ ] Set a Vue day to read through saved posts
-- [ ] Get other key cut (20th Street)
-- [ ] Finish "Why Design Systems Fail" Post
-- [ ] Fix up Classless <-- !
-- [ ] Add tooltips in YMNNJS
-- [ ] Think about CSS in JS series
-- [ ] Review book edits
-- [ ] Start building Comms Class for Devs site
-- [ ] Practice / revise MOH Speech
-- [ ] Liza's Wedding!
-- [ ] Pre-surgery appointment
+- [ ] Read my entire react-native courses
+- [ ] Publish `Woutkofi` project by October
+- [ ] ...
 
-### Things I'll Do in the Future:
+# Things I'll want to achieve next year:
 
-- [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Build something cool with Arduino
-- [ ] Create my own, or work on helping build a cleaner JS presentation framework
-- [ ] Create a typeface (hand-lettered monospace)
-- [ ] Make an electron app
-- [ ] Build a SlackBot (MyTime)
-- [ ] Every Day App (Happy moments or X-Days Projects)
-- [ ] Take this [online elecctronics class](http://www.instructables.com/class/Electronics-Class/)
-- [ ] Finish [JavaScript 30](https://javascript30.com/)
-- [ ] "Walk Me Through JS" Video Series
-- [ ] Toolsday & Web Love stickers
-- [x] Implement offline support for my blog
-- [ ] Build an Offline Web App (Heiroglyph)
-- [ ] Raise money for women in tech organizations
-- [x] Read [Resilient Web Design](https://resilientwebdesign.com/)
+- [ ] Sleep less :(
+- [ ] ...
