@@ -15,15 +15,16 @@ Personal goals - inspired by [](https://github.com/una/personal-goals)
 
 # Things I'll willing To Do This Summer:
 
+- [ ] Publish personal website
+- [ ] Start blogging at the end of the summer
 - [ ] ...
 
-# Things I'll willing To Do This year:
+# Other Things I'll willing To Do This year:
 
 - [ ] Read my entire react-native courses
-- [ ] Publish `Woutkofi` project by October
 - [ ] ...
 
-# Things I'll want to achieve next year:
+# Things I should be focusing in:
 
 - [ ] Sleep less :(
 - [ ] ...
