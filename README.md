@@ -24,7 +24,7 @@ Personal goals - inspired by [](https://github.com/una/personal-goals)
 - [ ] Read my entire react-native courses
 - [ ] ...
 
-# Things I should be focusing in:
+# Things I should be focusing on:
 
 - [ ] Sleep less :(
 - [ ] ...
