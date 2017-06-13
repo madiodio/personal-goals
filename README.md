@@ -23,9 +23,10 @@ Personal goals - inspired by [](https://github.com/una/personal-goals)
 # Other Things I'll willing To Do This year:
 
 - [ ] Read my entire react-native courses
+- [ ] Read at least 3 Books by the end of Dec. 😅
 - [ ] ...
 
 # Things I should be focusing on:
 
-- [ ] Sleep less :(
+- [ ] Sleep less 🤔
 - [ ] ...
