@@ -1,7 +1,7 @@
 Personal Goals
 ==============
 
-Personal goals - inspired by [](https://github.com/una/personal-goals)
+Personal goals - inspired by [this](https://github.com/una/personal-goals)
 
 # Overarching Goals for 2017
 1. JavaScript

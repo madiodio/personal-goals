@@ -1,0 +1,7 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "workbench.colorTheme": "Default Light+",
+  "editor.fontFamily": "Hack",
+  "editor.fontSize": 14.4,
+  "editor.letterSpacing": 0.5
+}
