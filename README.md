@@ -10,8 +10,8 @@ Personal goals - inspired by [this](https://github.com/una/personal-goals)
 
 # Week of 12 June, 2017
 
-- [ ] finish section "Revue critique" by Wed.
-- [ ] List every sections that is not finished on the memory before the weekend
+- [ ] finish chap. I of mem. by Fri.
+- [X] List every sections that is not finished on the memory before the weekend
 - [ ] ...
 
 # Things I'll willing To Do This Summer:
