@@ -8,11 +8,12 @@ Personal goals - inspired by [this](https://github.com/una/personal-goals)
 2. ELI Center
 4. Exercise
 
-# Week of 12 June, 2017
+# Week of 26 June, 2017
 
-- [ ] finish chap. I of mem. by Fri.
-- [X] List every sections that is not finished on the memory before the weekend
-- [ ] ...
+- [ ] Build those components {Sidebar, Footer, Bottom Footer}
+- [ ] Start exploring [ant-design](https://ant.design/docs/spec/introduce)
+- [ ] Migrate to react-router v4
+- [ ] Finish 1st and 2nd Part of the mem.
 
 # Things I'll willing To Do This Summer:
 
