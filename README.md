@@ -12,8 +12,8 @@ Personal goals - inspired by [this](https://github.com/una/personal-goals)
 
 - [ ] Build those components {Sidebar, Footer, Bottom Footer}
 - [ ] Start exploring [ant-design](https://ant.design/docs/spec/introduce)
-- [ ] Migrate to react-router v4
-- [ ] Finish the `questionnaire` and `guide d'entretien` of the mem.
+- [x] Migrate to react-router v4
+- [x] Finish the `questionnaire` and `guide d'entretien` of the mem.
 
 # Things I'll willing To Do This Summer:
 
